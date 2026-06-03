@@ -234,4 +234,3 @@ class DeterministicGrowthForecaster(BaseForecaster):
             {"growth_rate": [0.01, 0.02, 0.03]},
             {"growth_rate": -0.01},
         ]
-``
